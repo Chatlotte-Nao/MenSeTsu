@@ -2,7 +2,7 @@
 
 回答例：
 
-MonoBehaviour（モノビヘイビア） には Awake（アウェイク）, Start（スタート）, Update（アップデート）, LateUpdate（レイトアップデート）, OnDestroy（オンドストロイ） などのライフサイクルメソッドがあります。
+MonoBehaviour（モノビヘイビア） には Awake（アウェイク）, Start（スタート）, Update（アップデート）, LateUpdate（レイトアップデート）, OnDestroy（オンデストロイ） などのライフサイクルメソッドがあります。
 Awake（アウェイク） はスクリプトが読み込まれた時、Start（スタート） は有効化された最初のフレームで呼ばれます。
 Update（アップデート） は毎フレーム実行され、LateUpdate（レイトアップデート） は全ての Update の後に実行されます。
 
